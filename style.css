@@ -656,7 +656,22 @@ section{
     color: white;
 }
 
+.footer{
+    padding: 8px 10%;
+    background-color: blue;
+    color: white;
+}
 
+.footer_elms{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.footer_elms a{
+    color: gold;
+}
 
 
 
