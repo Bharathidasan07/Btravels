@@ -533,6 +533,15 @@ section{
     color: white;
 }
 
+@media screen and (max-width: 900px){
+    #contact{
+        display: flex;
+        background: black;
+        color: white;
+        padding-top: 40px;
+    }   
+}
+
 .cnt_mode{
     display: flex;
 }
