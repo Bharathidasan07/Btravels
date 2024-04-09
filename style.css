@@ -673,6 +673,11 @@ section{
     color: gold;
 }
 
+@media screen and (max-width: 700px){
+    .footer_elms{
+        font-size: 1rem;
+    }
+}
 
 
 
